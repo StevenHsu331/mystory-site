@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "TJ6DC6A4BU.app.themystory"
+        ],
+        "components": [
+          {
+            "/": "/u/*",
+            "comment": "A shared profile: https://themystory.app/u/<handle> (WI-17)"
+          }
+        ]
+      }
+    ]
+  }
+}

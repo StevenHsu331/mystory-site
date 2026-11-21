@@ -39,3 +39,10 @@ th { color: var(--muted); font-weight: 600; }
 footer { margin-top: 56px; padding-top: 16px; border-top: 1px solid var(--line); font-size: 13px; color: var(--muted); }
 footer p { margin: 6px 0; color: var(--muted); }
 @media (max-width: 480px) { body { font-size: 15px; } h1 { font-size: 24px; } }
+/* WI-17 §1.2: the shared-profile page /u/<handle> (u/index.html). */
+.share-page { text-align: center; padding-top: 48px; }
+.share-page h1 { overflow-wrap: anywhere; }
+.share-seal { display: block; margin: 0 auto 16px; }
+.share-download { display: inline-block; margin: 20px 0 4px; padding: 10px 22px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); text-decoration: none; }
+.share-download[href] { background: var(--seal); border-color: var(--seal); color: #fff; }
+.share-download[aria-disabled="true"] { cursor: default; pointer-events: none; }

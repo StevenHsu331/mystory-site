@@ -1,5 +1,5 @@
 {
   "maintenance": null,
-  "notice": { "from": "2026-11-22T17:00:00Z", "until": "2026-11-22T17:30:00Z" },
+  "notice": { "from": "2026-11-23T17:00:00Z", "until": "2026-11-23T17:30:00Z" },
   "ios": { "minBuild": 0, "latestBuild": 0 }
 }
